@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Deshikh
-- 👀 I’m interested in learning C, C++ and phython
-- 🌱 I’m currently learning C and Java 
-- 💞️ I’m looking to collaborate on Teams which teach me program 
-- 📫 How to reach me through discord darkx#4641
+- 👋 Hi, I’m Deshikh !
+- 📫 How to reach me through discord darkx24#6856
 
 <!---
 Deshikh/Deshikh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
